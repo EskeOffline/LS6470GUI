@@ -1,3 +1,2 @@
---------------L6470 CONTROL GUI\n
-Read README.txt
+L6470 CONTROL GUI ------> read README.txt
 
