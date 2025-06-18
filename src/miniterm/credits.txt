@@ -1,0 +1,9 @@
+miniterm.exe, derivato da miniterm.py, è un programma open source presente in pyserial
+
+info nella documentazione ufficiale a:
+https://pyserial.readthedocs.io/en/latest/examples.html
+
+miniterm.py e il file di setup per compilarlo:
+
+https://github.com/pyserial/pyserial/blob/master/serial/tools/miniterm.py
+https://github.com/pyserial/pyserial/blob/master/examples/setup-miniterm-py2exe.py
