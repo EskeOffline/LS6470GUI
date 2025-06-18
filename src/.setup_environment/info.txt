@@ -1,0 +1,17 @@
+Qua c'è un file bat che se eseguito installerà le componenti per poter eseguire main.py e compilare nuovamente.
+Richiede Python 3.13+ e QT Creator
+
+PYTHON: 
+https://www.python.it/download/
+
+QT Creator:
+Community (free for open source):
+https://www.qt.io/download-open-source
+Developer (paid plan):
+https://www.qt.io/pricing
+
+Moduli installati:
+PySide 6
+cx_freeze
+pyinstaller (alternativa a cx_freeze per la compilazione)
+pyserial (alternativa a pyside6 per le seriali)
